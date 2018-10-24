@@ -1,2 +1,31 @@
 <!--pages/mine/mine.wxml-->
-<text>pages/mine/mine.wxml</text>
+<view class='content'>
+  <view class='head'>
+    <view>
+      <image class='head-image' src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540404338824&di=ea2f4d21ac34fe34bb6400b6c5afdc0d&imgtype=0&src=http%3A%2F%2Fwenwen.soso.com%2Fp%2F20140317%2F20140317183041-1171869169.jpg'></image>
+    </view>
+    <view>      
+      <view>
+        <text class='fb-auth'>YSilhouette</text>
+      </view>
+      <view>
+        <text class='date'>刚刚发布</text>
+        <text class='time'>202赞</text>
+      </view>
+    </view>
+
+
+  </view>
+  <image class='image-content' src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540283869856&di=bda756e47c9a39c3d62e1f89c8966d7f&imgtype=0&src=http%3A%2F%2Ffe.topitme.com%2Fe%2F03%2F11%2F11317614960a31103eo.jpg'></image>
+  <view class='text-content'>
+    <text>有些人能清楚带听到自己内心的声音，并以此行事。</text>
+    <text>这些人要么变成了疯子，要么变成了传奇。</text>
+  </view>
+  <view class='text-auth'>
+    <text>———YSilhouette</text>
+  </view>
+  <view class='foot'>
+
+
+  </view>
+</view>
