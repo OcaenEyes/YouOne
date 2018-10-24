@@ -1,0 +1,20 @@
+/* pages/index/index.wxss */
+
+.image-content {
+  width: 80%;
+  height: 400rpx;
+  margin-left: 10%;
+  margin-top: 10%;
+  border-radius: 10%;
+}
+
+.text-content {
+  width: 80%;
+  vertical-align: middle;
+  line-height: 48rpx;
+  font-size: 32rpx;
+  margin-left: 10%;
+  margin-top: 40rpx;
+  /* border: 1rpx solid rgb(236, 235, 235); */
+  border-radius: 10%;
+}
